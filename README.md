@@ -30,24 +30,24 @@ Dev tools       CLIs, scripts, Raycast extensions, productivity tools
   <tr>
     <td width="50%">
       <a href="https://github.com/AdelEnazi1117/Ayat-Embed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=Ayat-Embed&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Ayat-Embed repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=Ayat-Embed&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Ayat-Embed" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/AdelEnazi1117/hijri-to-gregorian-raycast-extension">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=hijri-to-gregorian-raycast-extension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Hijri to Gregorian Raycast extension repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=hijri-to-gregorian-raycast-extension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Hijri to Gregorian Raycast extension" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/AdelEnazi1117/2DAvgFace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=2DAvgFace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="2DAvgFace repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=2DAvgFace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="2DAvgFace" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/AdelEnazi1117/ai-puzzle-suite-tui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=ai-puzzle-suite-tui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="AI puzzle suite TUI repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=ai-puzzle-suite-tui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="AI puzzle suite TUI" />
       </a>
     </td>
   </tr>
