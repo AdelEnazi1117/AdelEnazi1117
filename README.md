@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adel E.</h1>
+<h1 align="center">Hi, I'm Adel</h1>
 
 <h3 align="center">I build practical software across web, AI, automation, and Apple platforms.</h3>
 
@@ -58,16 +58,3 @@ Dev tools       CLIs, scripts, Raycast extensions, productivity tools
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nodejs,nextjs,tailwind,html,css,php,rust,git,github,vscode&perline=8" alt="Tech stack icons" />
 </p>
-
-## Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdelEnazi1117&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelEnazi1117&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-## Now
-
-- Shipping more polished TypeScript apps
-- Improving Python AI and retrieval workflows
-- Exploring better iOS and desktop utilities with Swift
