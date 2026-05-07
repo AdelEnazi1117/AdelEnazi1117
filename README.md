@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Adel E. - Practical software, AI tools, and product experiments" width="100%" />
-</p>
+<h1 align="center">Hi, I'm Adel E.</h1>
+
+<h3 align="center">I build practical software across web, AI, automation, and Apple platforms.</h3>
 
 <p align="center">
   <a href="https://github.com/AdelEnazi1117?tab=repositories">
@@ -8,8 +8,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=AdelEnazi1117&style=for-the-badge&color=2f81f7" alt="Profile views" />
 </p>
-
-<h2 align="center">Building useful tools across web, AI, automation, and Apple platforms.</h2>
 
 <p align="center">
   I like turning rough ideas into working products: fast prototypes, polished utilities, AI workflows, and small tools that solve real problems.
@@ -73,4 +71,3 @@ Dev tools       CLIs, scripts, Raycast extensions, productivity tools
 - Shipping more polished TypeScript apps
 - Improving Python AI and retrieval workflows
 - Exploring better iOS and desktop utilities with Swift
-
