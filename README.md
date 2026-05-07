@@ -1,41 +1,76 @@
-# Hi, I'm Adel E.
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Adel E. - Practical software, AI tools, and product experiments" width="100%" />
+</p>
 
-I build practical software across web, AI, automation, and Apple platforms. Most of my recent work is in TypeScript, Python, and Swift, with a focus on tools that are useful, fast to try, and easy to improve.
+<p align="center">
+  <a href="https://github.com/AdelEnazi1117?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-TypeScript%20%7C%20Python%20%7C%20Swift-2f81f7?style=for-the-badge" alt="Projects badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AdelEnazi1117&style=for-the-badge&color=2f81f7" alt="Profile views" />
+</p>
 
-## What I Work On
+<h2 align="center">Building useful tools across web, AI, automation, and Apple platforms.</h2>
 
-- Full-stack web apps and product experiments
-- AI/RAG tools, search workflows, and automation
-- iOS and macOS utilities
-- Developer tools, scripts, and small productivity apps
+<p align="center">
+  I like turning rough ideas into working products: fast prototypes, polished utilities, AI workflows, and small tools that solve real problems.
+</p>
 
-## Featured Projects
+---
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Ayat-Embed](https://github.com/AdelEnazi1117/Ayat-Embed) | Embeddable Quranic verse cards with Arabic/English support and customizable styling. | TypeScript |
-| [hijri-to-gregorian-raycast-extension](https://github.com/AdelEnazi1117/hijri-to-gregorian-raycast-extension) | Raycast extension for Hijri and Gregorian date conversion with live preview. | TypeScript |
-| [2DAvgFace](https://github.com/AdelEnazi1117/2DAvgFace) | Local-only 2D face averaging tool with app and web interfaces. | Python |
-| [hajj-website](https://github.com/AdelEnazi1117/hajj-website) | Web development project focused on a Hajj-themed site experience. | HTML |
+## Focus
 
-## Tech I Use
+```txt
+Web apps        TypeScript, React, JavaScript, PHP
+AI tools        Python, RAG workflows, search, automation
+Apple apps      Swift, iOS utilities, macOS experiments
+Dev tools       CLIs, scripts, Raycast extensions, productivity tools
+```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+## Featured Work
 
-## GitHub Snapshot
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AdelEnazi1117/Ayat-Embed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=Ayat-Embed&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Ayat-Embed repo card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AdelEnazi1117/hijri-to-gregorian-raycast-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=hijri-to-gregorian-raycast-extension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="Hijri to Gregorian Raycast extension repo card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AdelEnazi1117/2DAvgFace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=2DAvgFace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="2DAvgFace repo card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AdelEnazi1117/ai-puzzle-suite-tui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdelEnazi1117&repo=ai-puzzle-suite-tui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="AI puzzle suite TUI repo card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelEnazi1117&show_icons=true&hide_border=true&theme=transparent)
+## Toolkit
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelEnazi1117&layout=compact&hide_border=true&theme=transparent)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nodejs,nextjs,tailwind,html,css,php,rust,git,github,vscode&perline=8" alt="Tech stack icons" />
+</p>
 
-## Currently
+## Stats
 
-- Building more polished TypeScript apps
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdelEnazi1117&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelEnazi1117&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+## Now
+
+- Shipping more polished TypeScript apps
 - Improving Python AI and retrieval workflows
-- Exploring better mobile and desktop utilities with Swift
+- Exploring better iOS and desktop utilities with Swift
 
